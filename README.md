@@ -3,3 +3,5 @@
 これは以下で使用する最初のアプリケーションです。
 [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.jp/)
 by [Michael Hartl](http://michaelhartl.com/).
+
+そしてこれは著者：RyoSWalkerのウェブ開発の偉大なる第１歩である
